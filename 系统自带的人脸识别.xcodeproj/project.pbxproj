@@ -425,6 +425,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "系统自带的人脸识别/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aodong.---------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -436,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "系统自带的人脸识别/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.aodong.---------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +509,7 @@
 				16E489441DE6D8CC008FCC3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16E489451DE6D8CC008FCC3C /* Build configuration list for PBXNativeTarget "系统自带的人脸识别Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +518,7 @@
 				16E489471DE6D8CC008FCC3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		16E489481DE6D8CC008FCC3C /* Build configuration list for PBXNativeTarget "系统自带的人脸识别UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +527,7 @@
 				16E4894A1DE6D8CC008FCC3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
